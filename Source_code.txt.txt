@@ -3,7 +3,7 @@
 Admin_Registration_Data = {}
 Food_Items_with_id = {}
 User_Registration_Data = {}
-User_Ordered_Food_Item = {}
+User_Ordered_Food_Item = []
 
 def main():
     print("**********WELCOME TO (Madhav's) SNAP FOOD STORE**********")
